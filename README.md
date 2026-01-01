@@ -12,7 +12,10 @@ The following modules are used in this project:
 - Optical Flow: Measure camera movement
 - Perspective Transformation: Represent scene depth and perspective
 - Speed and distance calculation per player
+
+## Modifications to the model
 - Added MLOP's Tool such as Tensor Board for tracking of the model.
+- Using a conversion program to convert the jpeg files into a csv file for the Tensor Board.
 
 ## Trained Models
 - [Trained Yolo v5](https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6axK/view?usp=sharing)
